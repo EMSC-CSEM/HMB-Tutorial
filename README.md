@@ -9,4 +9,4 @@ Please get start with the following [Jupyter Notebook](https://github.com/EMSC-C
 
 __and__,
 
-and to use the library, it's [here](https://github.com/EMSC-CSEM/HMB-Tutorial/blob/master/hmb_messaging.py).
+To use the library, it's [here](https://github.com/EMSC-CSEM/HMB-Tutorial/blob/master/hmb_messaging.py).
