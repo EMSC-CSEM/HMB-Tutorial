@@ -7,6 +7,6 @@
 
 Please get start with the following [Jupyter Notebook](https://github.com/EMSC-CSEM/HMB-Tutorial/blob/master/hmb_tutorial.ipynb).
 
-_and_,
+__and__,
 
 and to use the library, it's [here](https://github.com/EMSC-CSEM/HMB-Tutorial/blob/master/hmb_messaging.py).
