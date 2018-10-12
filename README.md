@@ -1,4 +1,4 @@
-# ~hmb_messaging~ module is a client library for the python language which:
+hmb_messaging module is a client library for the python language which:
 * handles opening sessions on the HMB server
 * reconnecting automatically in the event of connection error
 * sending messages in the correct format
